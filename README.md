@@ -55,25 +55,25 @@ I was playing around with the values and I noticed a trend. As I decreased the `
 
 An analogy embodied in these questions is McDonalds. Sure, the company is known for its cheap prices, but its prices also entail a less luxurious and fancy product. In otherwords, fancy restaurants can create financial leverage of this principle and raise their prices in exchange for less sales but larger profit margins. In the end, enterprises don't care about the quantity of products sold but the revenue generated.
 
-![1-Observation](development-process/1. Numerical Observation.PNG)
+![1-Observation]("development-process/1. Numerical Observation.PNG")
 
 
 ### 2. Idea was born and articulated
 
 After a prolonged reflection about the aforementioned questions, I brought that discussion to the project, and asked myself how I would integrate this as an automated process. I started writing commens in the Python script on the X and Y values, as well as what operations I would need to perform to retrieve those instances.
 
-![2-Idea](development-process/2. Idea was born and articulated.PNG)
+![2-Idea]("development-process/2. Idea was born and articulated.PNG")
 
 
 ### 3. Conceptualized idea
 
 Once I had a rough idea of my approach, I made a sketch to clarify my thoughts to myself. Usually our complex minds hold multiple thoughts at the same time such that they clash and interfere, leaving us in a confused state.
 
-![3-Conceptualized-Idea](development-process/3. Conceptualized Idea.jpg)
+![3-Conceptualized-Idea]("development-process/3. Conceptualized Idea.jpg")
 
 
 ### 4. Implemented idea
 
 Lastly, I successfully implemented the functionality and integrated it to the system.
 
-![4-Implemented-Idea](development-process/4. Implemented Idea.PNG)
+![4-Implemented-Idea]("development-process/4. Implemented Idea.PNG")
