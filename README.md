@@ -76,24 +76,28 @@ This project evolved through a methodical process of observation, analysis, and 
 
 ### 1. Numerical Discovery
 ![Numerical Observation](development-process/1.%20Numerical%20Observation.PNG)
+
 *Initial data exploration revealing price-demand patterns*
 
 Initial model testing revealed a fascinating pattern: decreasing prices increased predicted demand, but this relationship wasn't linear and raised critical questions about optimal pricing strategy.
 
 ### 2. Hypothesis Formation
 ![Idea Formation](development-process/2.%20Idea%20was%20born%20and%20articulated.PNG)
+
 *Documentation of hypotheses and analytical approach*
 
 The McDonald's paradox emerged: low prices generate volume but sacrifice status and margins. Luxury restaurants leverage higher prices for fewer sales but larger profits. This led to the central question: **What matters more—volume or margin?**
 
 ### 3. Conceptual Framework
 ![Conceptual Design](development-process/3.%20Conceptualized%20Idea.jpg)
+
 *Visual mapping of the optimization algorithm*
 
 A methodical framework was developed to find the optimal price point where revenue (Price × Volume) is maximized, accounting for both margin and perceived value constraints.
 
 ### 4. Implementation
 ![Implementation](development-process/4.%20Implemented%20Idea.PNG)
+
 *Final system with automated price optimization*
 
 The fully implemented system now automatically calculates and visualizes the revenue-optimizing price point, providing actionable business intelligence.
@@ -124,4 +128,4 @@ The model revealed several counter-intuitive insights:
 
 ---
 
-*Developed with ❤️ using Python and machine learning techniques*
+*Developed by Joel Mattsson using Python and machine learning techniques*
